@@ -6,7 +6,7 @@ I'm a passionate undergraduate student who loves coding and exploring new techno
 
 Here are some of the Mini projects I've worked on recently:
 
-- [Project One](https://github.com/AP-projects-4001/esm-nadarim) - A C++ program that simulates an online shop. (But it's unfortunately offline...)
+- [Project One](https://github.com/AP-projects-4001/esm-nadarim) - A C++ program that simulates a shop application. (But it's unfortunately offline...)
   and this project was a teamwork for AP Project at university
   
 - [Mini Project Two](https://amin-shams.github.io/site-html-basic/) - A very simple single webpage
