@@ -29,8 +29,7 @@ Here are some of the Mini projects I've worked on recently:
 -->
 ## Contact
 
-Feel free to reach out to me at [Gmail](amin81shams@gmail.com
-) or connect with me on [LinkedIn](www.linkedin.com/in/mohammadamin-shams-940955259). I'm always happy to chat about coding, tech, and anything in between!
+Feel free to reach out to me at <a href="amin81shams@gmail.com">Gmail</a> or connect with me on [LinkedIn](www.linkedin.com/in/mohammadamin-shams-940955259). I'm always happy to chat about coding, tech, and anything in between!
 
 ## My activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amin-Shams&show_icons=true&theme=radical)
