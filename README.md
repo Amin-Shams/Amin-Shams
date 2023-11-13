@@ -9,7 +9,7 @@ Here are some of the Mini projects I've worked on recently:
 - [Project One](https://github.com/AP-projects-4001/esm-nadarim) - A C++ program that simulates a shop application. (But it's unfortunately offline...)
   and this project was a teamwork for AP Project at university
   
-- [Mini Project Two](https://amin-shams.github.io/site-html-basic/) - A very simple single webpage
+- [Mini Project Two](https://amin-shams.github.io/site-html-basic/) - A very simple single responsive webpage
 
 
 ## Skills
