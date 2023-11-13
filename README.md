@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mohammadamin Shams, a passionate undergraduate student who loves coding and exploring new technologies. I'm familiar with JavaScript, CSS, HTML, C++, C, and Python and I'm always eager to learn more.
+I'm Mohammadamin Shams, a passionate undergraduate who loves coding and exploring new technologies. I'm familiar with JavaScript, CSS, HTML, C++, C, and Python and I'm always eager to learn more.
 
 ## Projects
 
